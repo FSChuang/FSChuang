@@ -1,8 +1,9 @@
 ![](https://github.com/FSChuang/FSChuang/blob/main/image/githubProfile_1.jpg)
 
 ## Hello there👋
-*:neckbeard:Currently studying Electronic Engineering in Yuan Ze Unervisity @Taiwan, meanwhile planning to study abroad for my MS degree:airplane:.
-*:blue_book:Interested in **Artificial Intelligence**:computer:, especially applications in natural language, computer vision and medical:pill: area.
+:neckbeard:Currently studying Electronic Engineering in Yuan Ze Unervisity @Taiwan, meanwhile planning to study abroad for my MS degree:airplane:.
+
+:blue_book:Interested in **Artificial Intelligence**:computer:, especially applications in natural language, computer vision and medical:pill: area.
 
 **FSChuang/FSChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
