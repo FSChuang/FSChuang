@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github.com/FSChuang/FSChuang/blob/main/image/githubProfile_1.jpg)
 <!--
 **FSChuang/FSChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
